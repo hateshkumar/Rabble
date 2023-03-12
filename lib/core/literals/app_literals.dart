@@ -1,0 +1,26 @@
+const kBack= 'Back';
+const kAbTitle= 'Fremont wine group';
+const kTK= 'Tamara Khan';
+const kYS= 'Your Subscription';
+const kHost= 'Host';
+const kN169JU= 'N169JU';
+const k157= '157%';
+const kNDeliver= 'Next Delivery Date:';
+const kDate= ' 27th February';
+const kCD= ' Collection Address:';
+const kYB= ' Your Basket';
+const k240= '£240';
+const k320= '£320';
+const k150= '£150';
+const k700= '£700';
+const k75= '£75';
+const kKateE= 'Kate.E';
+const kPName= 'Product Name';
+const kMaxB= 'Max.B';
+const KTowards= 'towards';
+const kTowards= 'towards';
+const k500= '£500';
+const kMinium= 'minimum by 3 member.';
+const kTo= 'to pass minimum.';
+const kAddress= ' 147a Southgate Road,\n N169JU';
+
